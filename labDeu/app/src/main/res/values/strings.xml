@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">labDeu</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="save">save</string>
+<!--    <string name="button">Button</string>-->
+<!--    <string name="name">Name</string>-->
+    <string name="todo">TODO</string>
+<!--    <string name="button2">Button2</string>-->
+<!--    <string name="enter_number">Enter Number</string>-->
+</resources>

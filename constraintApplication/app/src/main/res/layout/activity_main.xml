@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:id="@+id/rest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:src="@drawable/faith"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:flow_firstHorizontalBias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:contentDescription="@string/Lire" />
+
+
+    <Button
+        android:id="@+id/btnSend"
+        android:layout_width="146dp"
+        android:layout_height="58dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/Plus"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.976" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="400dp"
+        android:layout_height="68dp"
+        android:text="@string/this_place_marks_the_beginning_of_an_incredible_story_between_god_and_man_for_it_is_because_christ_is_risen_that_our_faith_is_not_in_vain_for_the_death_of_christ_on_this_cross_reconciled_us_with_the_father"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.454"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.44"
+        tools:ignore="TextSizeCheck" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="205dp"
+        android:layout_height="94dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.024"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.582"
+        app:srcCompat="@drawable/live"
+        android:contentDescription="@string/todo" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="186dp"
+        android:layout_height="96dp"
+        android:text="@string/for_god_so_loved_the_world_that_he_gave_his_one_and_only_son_that_whoever_believes_in_him_shall_not_perish_but_have_eternal_life"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.973"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.584"
+        tools:ignore="TextSizeCheck" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="228dp"
+        android:layout_height="155dp"
+        android:text="@string/so_we_have_come_to_know_and_to_believe_the_love_that_god_has_for_us_god_is_love_and_whoever_abides_in_love_abides_in_god_and_god_abides_in_him_we_love_because_he_first_loved_us_the_lord_appeared_to_him_from_far_away_i_have_loved_you_with_an_everlasting_love_therefore_i_have_continued_my_faithfulness_to_you"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.087"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.824"
+        tools:ignore="TextSizeCheck" />
+
+    <ImageButton
+        android:id="@+id/imageButton7"
+        android:layout_width="138dp"
+        android:layout_height="177dp"
+        android:contentDescription="@string/Plus"
+        app:layout_constraintBottom_toBottomOf="@+id/btnSend"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.941"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.864"
+        app:srcCompat="@drawable/jese"
+        tools:ignore="DuplicateSpeakableTextCheck,ImageContrastCheck" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

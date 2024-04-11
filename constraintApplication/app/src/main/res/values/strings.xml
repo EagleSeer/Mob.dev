@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">constraintApplication</string>
+    <string name="send">send</string>
+    <string name="yes_or_no">Yes or No</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="accord">Accord</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="enter_your_number">Enter Your Number</string>
+    <string name="name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="password">Password</string>
+    <string name="copyright_2024">Copyright 2024</string>
+    <string name="More">CLick More</string>
+    <string name="Plus">More</string>
+    <string name="todo">Lire</string>
+    <string name="Lire">Read</string>
+    <string name="so_we_have_come_to_know_and_to_believe_the_love_that_god_has_for_us_god_is_love_and_whoever_abides_in_love_abides_in_god_and_god_abides_in_him_we_love_because_he_first_loved_us_the_lord_appeared_to_him_from_far_away_i_have_loved_you_with_an_everlasting_love_therefore_i_have_continued_my_faithfulness_to_you">So we have come to know and to believe the love that God has for us. God is love, and whoever abides in love abides in God, and God abides in him. We love because he first loved us.The Lord appeared to him from far away. I have loved you with an everlasting love; therefore I have continued my faithfulness to you.</string>
+    <string name="this_place_marks_the_beginning_of_an_incredible_story_between_god_and_man_for_it_is_because_christ_is_risen_that_our_faith_is_not_in_vain_for_the_death_of_christ_on_this_cross_reconciled_us_with_the_father">This place marks the beginning of an incredible story between God and man. For it is because Christ is risen that our faith is not in vain. For the death of Christ on this cross reconciled us with the Father.</string>
+    <string name="for_god_so_loved_the_world_that_he_gave_his_one_and_only_son_that_whoever_believes_in_him_shall_not_perish_but_have_eternal_life">For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.</string>
+</resources>
